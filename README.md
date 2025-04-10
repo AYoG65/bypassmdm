@@ -1,7 +1,7 @@
 # bypassmdm
 
 
-nter Recovery Mode & Open Safari.
+Enter Recovery Mode & Open Safari.
 
 Navigate to https://www.github.com/assafdori/bypass-mdm
 
